@@ -1,0 +1,11 @@
+# OS X 臨時文件
+._*
+.DS_Store
+
+# 其他依賴資源
+videos/
+
+# yt-dlp / ffmpeg 未完成的暫存檔
+*.part
+*.ytdl
+*.temp
